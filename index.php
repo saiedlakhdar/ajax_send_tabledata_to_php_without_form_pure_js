@@ -18,7 +18,7 @@
    </div>
 
    <hr>
-   <table id="data_tae" >
+   <table>
         <thead>
             <tr>
                 <td>#</td>
@@ -53,6 +53,12 @@
                 <td class="name">khaled adnan</td>
                 <td class="dob">01-01-1990</td>
                 <td class="pob">sirya</td>
+            </tr>
+            <tr>
+                <td class="id">5</td>
+                <td class="name">عبد الله السبع</td>
+                <td class="dob">01-01-1990</td>
+                <td class="pob">السعودية</td>
             </tr>
         </tbody>
 
